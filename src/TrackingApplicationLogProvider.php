@@ -2,7 +2,6 @@
 
 namespace SmartContact\TrackingApplicationLog;
 
-use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\ServiceProvider;
 
 class TrackingApplicationLogProvider extends ServiceProvider
