@@ -7,7 +7,7 @@ use Illuminate\Support\ServiceProvider;
 class TrackingApplicationLogProvider extends ServiceProvider
 {
     /**
-     * Register services.
+     * Register services.s
      *
      * @return void
      */
